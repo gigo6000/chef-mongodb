@@ -11,6 +11,10 @@ provisioner:
 
 platforms:
 
+- name: ubuntu-16.04
+  run_list:
+  - "recipe[apt]"
+
 - name: ubuntu-12.04
   run_list:
   - "recipe[apt]"
