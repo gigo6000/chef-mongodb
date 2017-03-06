@@ -1,6 +1,6 @@
 # ** Important **
 
-This project is not maintained anymore. See https://github.com/chef-brigade/mongodb-cookbook for the active fork. 
+This project is not maintained anymore. See https://github.com/sous-chefs/mongodb for the active fork. 
 
 # MongoDB Cookbook
 
